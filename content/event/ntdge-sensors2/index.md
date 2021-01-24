@@ -40,7 +40,7 @@ featured: true
 #   name: Follow
 #   url: https://twitter.com/georgecushen
 # url_code: ""
-url_pdf: "pdfs/Mathi_WOLTE.pdf"
+url_pdf: "/talk/development-of-ntd-ge-sensors-for-low-temperature-thermometry-for-neutrinoless-double-beta-decay/Mathi_WOLTE.pdf"
 # url_slides: ""
 # url_video: ""
 

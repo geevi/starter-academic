@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Employment
 subtitle:
 
 # Date format for experience
@@ -28,12 +28,7 @@ experience:
     location: Rehovot, Israel
     date_start: '2019-05-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    description: 
         
   - title: National Post-Doctoral Fellow
     company: Tata Institute of Fundamental Research, Hyderabad
@@ -41,8 +36,7 @@ experience:
     location: Hyderabad, India
     date_start: '2017-06-01'
     date_end: '2019-04-01'
-    description: Taught electronic engineering and researched semiconductor physics.
-
+    description: 
   
   - title: Post-Doctoral Fellow
     company: Tata Institute of Fundamental Research, Hyderabad
@@ -50,5 +44,5 @@ experience:
     location: Hyderabad, India
     date_start: '2015-09-01'
     date_end: '2017-05-01'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: 
 ---
