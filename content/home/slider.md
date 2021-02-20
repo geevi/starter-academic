@@ -17,7 +17,7 @@ height = "400px"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Sputtering Plasma"
-  content = "From MgB2 Project"
+  #content = "From MgB2 Project"
   align = "left"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -35,8 +35,8 @@ height = "400px"
   #cta_icon = "graduation-cap"
 [[item]]
   title = "Nanowires"
-  content = "From bubble Project"
-  align = "left"  # Choose `center`, `left`, or `right`.
+  #content = "From bubble Project"
+  align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
@@ -55,7 +55,7 @@ height = "400px"
   [[item]]
   title = "4K insert"
   #content = "From"
-  align = "left"  # Choose `center`, `left`, or `right`.
+  align = "right"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
