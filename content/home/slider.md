@@ -16,8 +16,8 @@ height = "400px"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Sputtering Plasma"
-  #content = "From MgB2 Project"
+  title = ""
+  content = "Sputtering Plasma"
   align = "left"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -34,8 +34,8 @@ height = "400px"
   #cta_icon_pack = "fas"
   #cta_icon = "graduation-cap"
 [[item]]
-  title = "Nanowires"
-  #content = "From bubble Project"
+  title = ""
+  content = "Nanowires"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -52,15 +52,28 @@ height = "400px"
   #cta_icon_pack = "fas"
   #cta_icon = "graduation-cap"
   
-  [[item]]
-  title = "4K insert"
+  #[[item]]
+  #title = "4K insert"
   #content = "From"
-  align = "right"  # Choose `center`, `left`, or `right`.
+  #align = "right"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#666"  # An HTML color value.
-  overlay_img = "insert4K_0.png"  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0.0  # Darken the image. Value in range 0-1.
+  #overlay_color = "#666"  # An HTML color value.
+  #overlay_img = "insert4K_0.png"  # Image path relative to your `static/media/` folder.
+  #overlay_filter = 0.0  # Darken the image. Value in range 0-1.
+
+  [[item]]
+    title = ""
+    content = "Quasiparticle Interference in Cu"
+    align = "right"  # Choose `center`, `left`, or `right`.
+
+    # Overlay a color or image (optional).
+    #   Deactivate an option by commenting out the line, prefixing it with `#`.
+    overlay_color = "#666"  # An HTML color value.
+    overlay_img = "Cu_qpi.png"  # Image path relative to your `static/media/` folder.
+    overlay_filter = 0.0  # Darken the image. Value in range 0-1.
+
+
 
 +++
