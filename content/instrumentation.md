@@ -11,3 +11,6 @@ header:
   caption: ""
   image: ""
 ---
+
+
+<embed src="/media/Instrumentation.pdf" width="740" height="5000" frameborder="0" allowfullscreen>
