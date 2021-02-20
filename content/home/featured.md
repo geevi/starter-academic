@@ -10,7 +10,7 @@ headless: true
 weight: 80
 
 title: Selected Publications
-subtitle: ""
+subtitle: "[All publications in Google Scholar](https://scholar.google.co.in/citations?user=PaVORLwAAAAJ&hl=en)."
 
 content:
   # Page type to display. E.g. post, talk, publication...
