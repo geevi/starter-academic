@@ -17,9 +17,9 @@ event_url: http://ibss2015.ieeebombay.org/
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2015-09-11T13:00:00Z"
+date: "2015-09-11"
 # date_end: "2030-06-01T15:00:00Z"
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 # publishDate: "2017-01-01T00:00:00Z"
