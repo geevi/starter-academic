@@ -60,5 +60,5 @@ url_pdf: "http://ibss2015.ieeebombay.org/wp-content/uploads/2015/10/d2s1t3.pdf"
 # - example
 ---
 Invited Talk at IEEE Bombay Symposium, 2015
-
+[slides](http://ibss2015.ieeebombay.org/wp-content/uploads/2015/10/d2s1t3.pdf)
 http://ibss2015.ieeebombay.org/
