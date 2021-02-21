@@ -85,3 +85,12 @@ highlight_name: false
 <h2>Hello</h2>
 
 I am currently a post doctoral fellow with [Prof. Haim Beidenkopf](http://www.weizmann.ac.il/condmat/WASP/home) at Weizmann Institute of Science, Israel. At Weizmann, my research comprises of probing and analysing the weak localization in a magnetic material using scanning tunneling spectroscopic (STS) methods at low temperature. Apart from STS, I had also grown the topological nano-wires using Molecular Beam Epitaxial (MBE) growth chamber. Previously, I was a Post Doctoral fellow with [Dr. Karthik V. Raman](https://www.tifrh.res.in/~raman/index.php/people/) at TIFR, Hyderabad (TIFRH). At TIFRH I had proximitized topological insulator with a magnetic insulator and studied the signature of gate controlled magnetism and localization in the material. In my Ph.D. the research work was carried out on 'Low-temperature sensor development for the search of Majorana neutrino using the bolometric technique' for [The INdia’s TIN detector (TIN.TIN)](http://www.tifr.res.in/~tin.tin/) at [INO](http://www.ino.tifr.res.in/ino/), TIFR Mumbai.
+
+
+<style>
+#featured .card-simple .article-title, 
+#featured .media.stream-item .article-title {
+    font-size: 1rem; 
+    font-weight: 300;
+}
+</style>
