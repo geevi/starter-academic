@@ -1,7 +1,7 @@
 ---
 title: Development of NTD Ge sensors for low temperature thermometry (for Neutrinoless Double Beta Decay)
 
-event: Oral Presentation at International Workshop on Low Temperature Electronics (WOLTE) , Grenoble 2015
+event: Oral Presentation at International Workshop on Low Temperature Electronics (WOLTE) , Grenoble 2014
 # event_url: http://ibss2015.ieeebombay.org/
 
 # location: Wowchemy HQ
@@ -17,7 +17,7 @@ event: Oral Presentation at International Workshop on Low Temperature Electronic
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2015-09-11T13:00:00Z"
+date: "2014-07-08T13:00:00Z"
 # date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
@@ -59,4 +59,4 @@ url_pdf: "/talk/development-of-ntd-ge-sensors-for-low-temperature-thermometry-fo
 # projects:
 # - example
 ---
-Oral Presentation at International Workshop on Low Temperature Electronics (WOLTE) , Grenoble 2015
+Oral Presentation at International Workshop on Low Temperature Electronics (WOLTE) , Grenoble 2014
