@@ -93,4 +93,10 @@ I am currently a post doctoral fellow with [Prof. Haim Beidenkopf](http://www.we
     font-size: 1rem; 
     font-weight: 300;
 }
+
+.avatar-circle {
+    border-radius: 50%;
+    border: 4px solid #98dfef;
+    
+}
 </style>
