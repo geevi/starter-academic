@@ -96,7 +96,7 @@ I am currently a post doctoral fellow with [Prof. Haim Beidenkopf](http://www.we
 
 .avatar-circle {
     border-radius: 50%;
-    border: 4px solid #98dfef;
+    border: 4px solid grey;
     
 }
 </style>
